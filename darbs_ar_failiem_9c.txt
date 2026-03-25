@@ -1,0 +1,3 @@
+Sveiki, šis ir mans pirmais darbs ar failiem Pythonā!
+Sveiki, šis ir mans otrais darbs ar failiem Pythonā!
+Sveiki, šis ir mans trešais darbs ar failiem Pythonā!
